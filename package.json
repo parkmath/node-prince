@@ -41,7 +41,7 @@
         "node":                 ">=0.10.0"
     },
     "scripts": {
-        "install":   "node ./prince-npm.js install",
+        "install":   "node ./prince-npm.js install 20160715",
         "uninstall": "node ./prince-npm.js uninstall"
     }
 }
